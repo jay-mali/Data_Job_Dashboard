@@ -81,6 +81,6 @@ screenshots/dashboard/
 ---
 
 ## 👤 Author  
-**Jayesh Malik**  
-*(Add LinkedIn or GitHub link here)*
+**Jayesh Mali**  
+
 
